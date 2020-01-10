@@ -1,0 +1,26 @@
+{
+  "name": "graphqlmovie-app",
+  "version": "1.0.0",
+  "description": "MongoDb Nodejs GraphQL Apollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onselaydin/graphqlmovie-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onselaydin/graphqlmovie-app/issues"
+  },
+  "homepage": "https://github.com/onselaydin/graphqlmovie-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

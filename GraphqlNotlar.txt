@@ -1,0 +1,14 @@
+RestApi üzerinde kurulmuş bir yapıdır. İstediğin alanları getirme, iç içe sorgulama yeteneği vs gibi...
+örnek için 
+starwars restapi örneği
+https://swapi.co/
+starwars GraphQL örneği
+http://graphql.github.io/swapi-graphql/
+
+mkdir graphmovie-app klasörü açtık cd komutu ile içine girdik.
+
+# npm init -y //ile package.json dosyamızı oluşturuyoruz.
+
+# npm install express --save
+
+# npm install nodemon --save-dev
