@@ -4,6 +4,7 @@
   "description": "MongoDb Nodejs GraphQL Apollo",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +19,10 @@
   },
   "homepage": "https://github.com/onselaydin/graphqlmovie-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"

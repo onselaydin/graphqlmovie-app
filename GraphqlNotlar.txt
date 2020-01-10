@@ -12,3 +12,13 @@ mkdir graphmovie-app klasörü açtık cd komutu ile içine girdik.
 # npm install express --save
 
 # npm install nodemon --save-dev
+
+-- GraphQL Kurulumu --
+# npm install graphql express-graphql --save
+
+https://github.com/meseven/graphql-movie-app
+
+--lodash--
+js array ve objelerinde arama, bulma, değiştirme
+# npm install lodash --save
+const _ = require('lodash');
